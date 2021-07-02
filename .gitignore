@@ -62,7 +62,6 @@ target/
 *.log
 *.log.*
 .idea/
-.vscode/
 CTFd/static/uploads
 CTFd/uploads
 .data/
@@ -80,3 +79,7 @@ node_modules/
 
 # Flask Profiler files
 flask_profiler.sql
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
